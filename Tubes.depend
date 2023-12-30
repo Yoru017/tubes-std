@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # depslib dependency file v1.0
 1703249862 source:d:\imi\kuliah\matkul\semester 3\struktur data\week 16\tubes\tubes\tubes.cpp
 	<iostream>
@@ -10,3 +11,17 @@
 	<iostream>
 	"Tubes.h"
 
+=======
+# depslib dependency file v1.0
+1703767428 source:d:\imi\kuliah\matkul\semester 3\struktur data\week 16\tubes\tubes\tubes.cpp
+	<iostream>
+	"Tubes.h"
+
+1703764261 d:\imi\kuliah\matkul\semester 3\struktur data\week 16\tubes\tubes\tubes.h
+	<iostream>
+
+1702352015 source:d:\imi\kuliah\matkul\semester 3\struktur data\week 16\tubes\tubes\main.cpp
+	<iostream>
+	"Tubes.h"
+
+>>>>>>> c9207e3 (fixed)
